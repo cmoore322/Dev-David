@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: url('https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/4335056/1820/1213/m1/fpnw/wm1/dwbzdh8conkfbvhxleoiiaysbjiptecktn66yeqdlgqsxlghxputk8vmqapcgv6q-.jpg?1524367305&s=48ed7f389ec388c31bbdc355dd9bb7c6');
+}
+
+#game-piece {
+    width: 100px;
+    height: 100px;
+    background-color: dodgerblue;
+    text-align: center;
+    line-height: 100px;
+    color: white;
+    cursor: pointer;
+    position: relative;
+}
+
+#game-target {
+    margin-top: 50px;
+    width: 150px;
+    height: 150px;
+    background-color: #BFC9CA;
+    text-align: center;
+    line-height: 150px;
+    color: white;
+    position: relative
+ footer {
+  background-color: #ABEBC6;
+  color: white; 
+  text-align: center;
+  padding: 20px 0;
+  width: 100%;
+  position: relative;
+}
